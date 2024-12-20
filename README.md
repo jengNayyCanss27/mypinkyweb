@@ -1,0 +1,2 @@
+# mypinkyweb
+Website Pribadi
